@@ -1,0 +1,9 @@
+{
+  "name": "bare-metal",
+  "version": "0.0.1",
+  "description": "A minimal JS web framework",
+  "main": "index.js",
+  "repository": "git@github.com:chrisisler/bare-metal",
+  "author": "chrisisler <christopherisler1@gmail.com>",
+  "license": "MIT"
+}
